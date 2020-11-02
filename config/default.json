@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://Rohit:Rohit1215@devconnector.wyind.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "903c0371174711be1a7b",
+    "githubSecret": "f22d6bb5bed7178e688a3d3708347e3bad5219d9"
+}
